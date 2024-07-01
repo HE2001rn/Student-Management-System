@@ -1,0 +1,56 @@
+.kitchen_duty-big-rect3 {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    margin-top: -118vh;
+    margin-left: 22%;
+}
+
+.kitchen_duty-top-head3 {
+    font-family: 'Franklin Gothic Medium';
+    font-size: larger;
+
+}
+
+.kitchen_duty-rect3 {
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+    height: 85vh;
+    border-radius: 25px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 12px;
+    background-color: rgb(227, 227, 227);
+}
+
+.kitchen_duty-sub-top-head3 {
+    font-family: 'Franklin Gothic Medium';
+    font-size: x-large;
+    color: rgba(201, 201, 2, 0.99);
+    margin-left: 2%;
+}
+
+.xs-kitchen_duty-rect3 {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    min-height: 50vh;
+    margin-top: 8%;
+}
+.xs-kitchen_duty-sub3{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    height: 60vh;
+    border-radius: 25px;
+    margin-left: 10%;
+    margin-top: -10%;
+}
+.xs-xs-kitchen_duty-sub3{
+    margin-top: -15%;
+}
+.kitchen_duty-save-btn{
+    margin-top: 5%;
+    margin-left: 73%;
+}
